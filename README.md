@@ -4,20 +4,22 @@
 
 <p>
   <a href="https://www.linkedin.com/in/oscaromsn/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://cal.com/oscar-neto/bicycle-for-law"><img alt="Book a call" src="https://img.shields.io/badge/Book%20a%20call-000000?style=flat-square&logo=googlecalendar&logoColor=white" /></a>
+  <a href="https://cal.com/oscar-neto/30min"><img alt="Book a call" src="https://img.shields.io/badge/Book%20a%20call-000000?style=flat-square&logo=googlecalendar&logoColor=white" /></a>
 </p>
 
-Lawyer (PUC/SP) focused on modeling the legal domain with emphasis on **steerability** and **explainability**.
+AI Engineer / Lawyer (PUC/SP). Former criminal law practitioner at top Brazilian firms, co-founder of [Pindograma](https://pindograma.com.br) (data journalism — built Brazil's largest electoral poll aggregator).
 
-I believe good legal AI requires hybrid architectures: deterministic workflows for predictable, auditable paths + unconstrained loops for nuanced reasoning. This mirrors how lawyers actually work — structured procedure with judgment at decision points.
+Currently focused on modeling the legal domain with emphasis on **steerability** and **explainability**.
+
+I believe good legal AI requires hybrid architectures: deterministic workflows for predictable, auditable paths + unconstrained loops for better "exploration/exploitation" during long-running tasks.
 
 ## Current work
 
-- 🔬 Innovation Resident @ **InovaUSP** — R&D on GenAI for legal tech
+- 🔬 Innovation Resident @ **InovaUSP** — Building and validating GenAI products for legal practice using design thinking
 - ⚖️ Integrating Brazilian court APIs (Datajud / BNP / MNI) into AI agents
 - 🔓 Reverse engineering undocumented court systems via HTTP traffic analysis when official APIs don't exist
-- 🔗 Designing multi-step tool-use patterns for nuanced legal reasoning
-- 🧠 Exploring neuro-symbolic approaches for high-stakes decisions (LLM for parsing structured outputs + deterministic reasoning engine according to decision trees)
+- 🔗 Designing multi-step tool-use patterns for nuanced legal reasoning during exploratory tasks
+- 🧠 Exploring neuro-symbolic approaches for high-stakes decisions (LLMs/SLMs for structured extraction + deterministic reasoning engine based on decision trees)
 
 ## Projects
 
@@ -25,7 +27,7 @@ I believe good legal AI requires hybrid architectures: deterministic workflows f
 |---------|-------------|
 | [**research-squad**](https://github.com/oscaromsn/research-squad) | Multi-agent research system built with Effect + BAML. Hierarchical orchestration, structured concurrency, contract-driven TDD. |
 | [**harvest-mcp**](https://github.com/oscaromsn/harvest-mcp) | MCP server that reverse engineers APIs from HAR files and generates TypeScript wrappers. LLM-powered dependency graph analysis. |
-| [**inpi-agent**](https://github.com/oscaromsn/inpi-agent) | Simple BAML agent with calculator + INPI database access. Reference implementation in Portuguese for the Brazilian dev community. |
+| [**inpi-agent**](https://github.com/oscaromsn/inpi-agent) | Minimal BAML agent with calculator + INPI database access. Reference implementation in Portuguese for the Brazilian dev community. |
 
 ## Stack
 
@@ -36,8 +38,6 @@ I believe good legal AI requires hybrid architectures: deterministic workflows f
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-**Interests:** effect systems, event-driven architecture, declarative DSLs, workflow vs. actor-based modeling for legal processes.
+**Interests:** effect systems, event-driven architecture, declarative DSLs, actor-based modeling, recursive agents with subtask spawning.
 
-## Let's talk
-
-Building legal AI that lawyers actually trust? [Book a call](https://cal.com/oscar-neto/bicycle-for-law).
+Happy to chat about similar problems, feel free to [get in touch](https://cal.com/oscar-neto/30min).
