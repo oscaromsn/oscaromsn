@@ -17,7 +17,7 @@ I believe good legal AI requires hybrid architectures: deterministic workflows f
 - ⚖️ Integrating Brazilian court APIs (Datajud / BNP / MNI) into AI agents
 - 🔓 Reverse engineering undocumented court systems via HTTP traffic analysis when official APIs don't exist
 - 🔗 Designing multi-step tool-use patterns for nuanced legal reasoning
-- 🧠 Exploring constrained neuro-symbolic approaches for high-stakes decisions
+- 🧠 Exploring neuro-symbolic approaches for high-stakes decisions (LLM for parsing structured outputs + deterministic reasoning engine according to decision trees)
 
 ## Projects
 
