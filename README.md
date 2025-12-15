@@ -24,8 +24,8 @@ I believe good legal AI requires hybrid architectures: deterministic workflows f
 
 | Project | Description |
 |---------|-------------|
-| [**research-squad**](https://github.com/oscaromsn/research-squad) | Multi-agent research system built with Effect + BAML. Hierarchical orchestration, structured concurrency, contract-driven TDD. Inspired by "How we built our multi-agent research system" by Anthropic |
-| [**TalentScore**](https://github.com/oscaromsn/TalentScore) | Resume parser with deterministic scoring. LLM extracts structured data, then rule-based engine scores candidates — the neuro-symbolic pattern for regulated industries. |
+| [**research-squad**](https://github.com/oscaromsn/research-squad) | Multi-agent research system built with Effect + BAML. Hierarchical orchestration, structured concurrency, contract-driven TDD. Inspired by "How we built our multi-agent research system" by Anthropic. |
+| [**TalentScore**](https://github.com/oscaromsn/TalentScore) | Resume parser with deterministic scoring. LLM extracts structured data, then rule-based engine scores candidates - a promissing neuro-symbolic pattern for regulated industries. |
 | [**harvest-mcp**](https://github.com/oscaromsn/harvest-mcp) | MCP server that reverse engineers APIs from HAR files and generates TypeScript wrappers. LLM-powered dependency graph analysis. |
 | [**inpi-agent**](https://github.com/oscaromsn/inpi-agent) | Minimal BAML agent with calculator + INPI database access. Reference implementation in Portuguese for the Brazilian dev community. |
 
