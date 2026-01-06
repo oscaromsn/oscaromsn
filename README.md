@@ -41,4 +41,4 @@ I believe good legal AI requires hybrid architectures: deterministic workflows f
 
 **Interests:** effect systems, event-driven architecture, declarative DSLs, actor-based modeling, recursive agents with subtask spawning.
 
-Happy to chat about similar problems, feel free to <a href="https://cal.com/oscar-neto/30min"><img alt="Book a call" src="https://img.shields.io/badge/Book%20a%20call-000000?style=flat-square&logo=googlecalendar&logoColor=white" /></a>
+Happy to chat about similar problems, feel free to <a href="https://cal.com/oscar-neto/30min"><img alt="Book a call" src="https://img.shields.io/badge/Book%20a%20call-000000?style=flat-square&logo=googlecalendar&logoColor=white" style="vertical-align: middle" /></a>
