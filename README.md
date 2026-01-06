@@ -24,6 +24,7 @@ I believe good legal AI requires hybrid architectures: deterministic workflows f
 
 | Project | Description |
 |---------|-------------|
+| [**whatsapp-evidence**](https://github.com/oscaromsn/whatsapp-legal-evidence-transcriber) | CLI tool to convert WhatsApp audio and screenshots into structured markdown for legal proceedings in Brazil. BAML vision extraction + ElevenLabs transcription. |
 | [**research-squad**](https://github.com/oscaromsn/research-squad) | Multi-agent research system built with Effect + BAML. Hierarchical orchestration, structured concurrency, contract-driven TDD. Inspired by "How we built our multi-agent research system" by Anthropic. |
 | [**TalentScore**](https://github.com/oscaromsn/TalentScore) | Resume parser with deterministic scoring. LLM extracts structured data, then rule-based engine scores candidates - a promissing neuro-symbolic pattern for regulated industries. |
 | [**harvest-mcp**](https://github.com/oscaromsn/harvest-mcp) | MCP server that reverse engineers APIs from HAR files and generates TypeScript wrappers. LLM-powered dependency graph analysis. |
