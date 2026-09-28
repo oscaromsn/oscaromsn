@@ -14,11 +14,11 @@ I believe good legal AI requires hybrid architectures: deterministic workflows f
 
 ## Current work
 
-- 🔬 Innovation Resident @ **InovaUSP** — Building and validating GenAI products for legal practice using design thinking
-- ⚖️ Integrating Brazilian court APIs (Datajud / BNP / MNI) into AI agents
-- 🔓 Reverse engineering undocumented court systems via HTTP traffic analysis when official APIs don't exist
-- 🔗 Designing multi-step tool-use patterns for nuanced legal reasoning during exploratory tasks
-- 🧠 Working on neuro-symbolic approaches for high-stakes decisions (LLMs/SLMs for structured extraction + deterministic reasoning engine based on decision trees)
+- Innovation Resident @ **InovaUSP** — Building and validating GenAI products for legal practice using design thinking
+- Integrating Brazilian court APIs (Datajud / BNP / MNI) into AI agents
+- Reverse engineering undocumented court systems via HTTP traffic analysis when official APIs don't exist
+- Designing multi-step tool-use patterns for nuanced legal reasoning during exploratory tasks
+- Working on neuro-symbolic approaches for high-stakes decisions (LLMs/SLMs for structured extraction + deterministic reasoning engine based on decision trees)
 
 ## Projects
 
@@ -40,5 +40,3 @@ I believe good legal AI requires hybrid architectures: deterministic workflows f
 </p>
 
 **Interests:** effect systems, event-driven architecture, declarative DSLs, actor-based modeling, recursive agents with subtask spawning.
-
-Happy to chat about similar problems, feel free to <a href="https://cal.com/oscar-neto/30min"><img alt="Book a call" src="https://img.shields.io/badge/Book%20a%20call-000000?style=flat-square&logo=googlecalendar&logoColor=white" style="vertical-align: middle" /></a>
